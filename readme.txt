@@ -1,17 +1,16 @@
-WebRename version 0.4
+SlugKey version 0.8
 
-http://ancillaryfactory.github.com/web-rename/
+http://ancillaryfactory.github.com/slugkey/
 ========================================================================
 
 INSTALLATION:
-Run install.exe to copy webname.exe to C:\slugify
+Unpack .ZIP file anywhere in C:\
 
 
-USAGE
-1. Right-click a file in Windows Explorer and select "Convert filename to slug"
-2. Drag a file to webname.exe
+USAGE:
+Copy a string to the clipboard (like a filename) and press CTRL-F12.
 
-In both cases, spaces in the filename will be converted to hyphens.
+Spaces and funny characters in the filename will be converted to hyphens, and the string will be pasted in place.
 
 
 ======================================================
